@@ -1,1 +1,1 @@
-# ArcoLinux-config for bspwm
+# ArcoLinux-config
